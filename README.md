@@ -69,15 +69,11 @@ bojan = {
 <p align=center>
   <div align=center>
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=bojan9&theme=blue-green&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=bojan9&show_icons=true&theme=blue-green&border_color=61dafb&hide_border=true" />
-    </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bojan9&layout=donut-vertical&theme=blue-green&border_color=61dafb&hide_border=true&langs_count=10" />
-    </a>
   </div>
   <br>
 </p>
