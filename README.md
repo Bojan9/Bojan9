@@ -73,7 +73,7 @@ bojan = {
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-      <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bojan9&layout=donut-vertical&theme=blue-green&border_color=61dafb&hide_border=true&langs_count=10" />
+      sss
   </div>
   <br>
 </p>
