@@ -34,8 +34,24 @@ I am a Computer Science graduate from the University of Ljubljana, currently wor
       <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="spring" width="65" height="65"/>
 </p>
 
+<h3 align="center">Backend</h3>
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="java" width="65" height="65"/> 
+</p>
+
+<h3 align="center">Mobile Dev</h3>
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="java" width="65" height="65"/> 
+</p>
+
+<h3 align="center">Databases</h3>
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="java" width="120" height="70"/> 
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="java" width="65" height="65"/> 
 </p>
 
 <br>
