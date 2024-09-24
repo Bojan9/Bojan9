@@ -15,8 +15,6 @@ I am a Computer Science graduate from the University of Ljubljana, currently wor
 
 <h2 align="center">🧠 My Skills 🧠</h2>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-
 <h3 align="center">Frontend</h3>
 
 <p align="center">
@@ -53,6 +51,8 @@ I am a Computer Science graduate from the University of Ljubljana, currently wor
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="java" width="120" height="70"/> 
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="java" width="65" height="65"/> 
 </p>
+
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <br>
 <p align=center>
