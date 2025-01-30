@@ -10,7 +10,7 @@
 ![Spotify MasterBojan](https://img.shields.io/badge/Bojan-gren?style=flat-square&logo=spotify&logoColor=white)
 
 <p>
-I am a Computer Science graduate from the University of Ljubljana, currently working as a Junior Software Developer at ASSECO and Adamantus. My role spans across front-end and back-end development, along with database management. I enjoy tackling diverse challenges and continuously learning new technologies to enhance my skills.
+I am a Computer Science graduate from the University of Ljubljana, currently working as a Junior Software Developer at ASSECO. My role spans across front-end and back-end development, along with database management. I enjoy tackling diverse challenges and continuously learning new technologies to enhance my skills.
 </p>
 
 <h2 align="center">🧠 My Skills 🧠</h2>
