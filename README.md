@@ -10,7 +10,7 @@
 ![Spotify MasterBojan](https://img.shields.io/badge/Bojan-gren?style=flat-square&logo=spotify&logoColor=white)
 
 <p>
-I am a Computer Science graduate from the University of Ljubljana, currently working as a Junior Software Developer at ASSECO. My role spans across front-end and back-end development, along with database management. I enjoy tackling diverse challenges and continuously learning new technologies to enhance my skills.
+Alumnus of University of Ljubljana, Faculty of Computer and Information Science. Currently working as a Software Developer @ ASEE. Co-Founder of the student organization Skopje Code and hackathon organizer.
 </p>
 
 <h2 align="center">🧠 My Skills 🧠</h2>
@@ -59,10 +59,6 @@ I am a Computer Science graduate from the University of Ljubljana, currently wor
   <div align=center>
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=bojan9&theme=blue-green&border=61dafb&hide_border=true" alt="zumrudu-anka" />
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=bojan9&show_icons=true&theme=blue-green&border_color=61dafb&hide_border=true" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-      <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bojan9&layout=donut-vertical&theme=blue-green&border_color=61dafb&hide_border=true&langs_count=12" />
   </div>
   <br>
 </p>
